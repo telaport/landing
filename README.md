@@ -1,2 +1,0 @@
-# landing
-telaport landing page
